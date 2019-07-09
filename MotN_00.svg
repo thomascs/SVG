@@ -1,11 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="xMidYMin meet" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-40293 680 335334 387290">
-  <style>
-    path {
-      stroke: #000;
-      stroke-width: 1px;
-    }
-  </style>
-  <g class="areas">
      <path id="Duin-47" class="model4988 areas m-1 " d="M37806 72900h14385v-10760l-362 57l-872 159l-864 201l-853 243l-841 284l-825 325l-809 364l-790 404l-770 441l-747 478l-723 514l-697 548l-727 621l-695 658l-660 692l-624 725l-586 756l-547 784l-507 811l-465 836z"></path>
      <path id="Duin-09" class="model4990 areas m-1 " d="M190601 103053v7100h6600v-7100z"></path>
      <path id="Ligu-68L" class="model4993 areas m-1 " d="M9301 311875l-4-4978l-5665-1023h-2l-2602 3v-2874h-4820l-9 9l8 8794l7217-6h2l5644 1025l183-630z"></path>
@@ -236,8 +229,6 @@
      <path id="Egla-14" class="model4990 areas m-1 " d="M160390 136977h23817v-13473h-23817z"></path>
      <path id="Berk-17" class="model4992 areas m-1 " d="M119647 219380v34391h11175v-34400h-11175z"></path>
      <path id="Korn-22" class="model4988 areas m-1 " d="M70886 113400v-5259l-9-9h-17931l41 54l517 705l497 718l478 731l458 744l438 756l418 767l397 778l7 15z"></path>
-  </g>
-  <g class="textplan">
       <text class="code" x="221145" y="343113.5" font-family="helvetica" font-size="1200" text-anchor="middle" fill="#000" stroke="none">Ligu-15</text>
       <text x="221145" y="344113.5" font-family="helvetica" font-size="1200" text-anchor="middle" fill="#000" stroke="none">45 m2</text>
 
@@ -922,7 +913,4 @@
       <text class="code" x="23461.5" y="330683" font-family="helvetica" font-size="1200" text-anchor="middle" fill="#000" stroke="none">Ligu-78</text>
       <text x="23461.5" y="331683" font-family="helvetica" font-size="1200" text-anchor="middle" fill="#000" stroke="none">26 m2</text>
 
-      <text class="code" x="12949" y="330380" font-family="helvetica" font-size="1200" text-anchor="middle" fill="#000" stroke="none">Ligu-74</text>
-      <text x="12949" y="331380" font-family="helvetica" font-size="1200" text-anchor="middle" fill="#000" stroke="none">32 m2</text>
-    </g>
 </svg>
